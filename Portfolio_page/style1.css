@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 0, 33);
+    background-color: rgb(115, 115, 247);
     color: white;
     font-family: 'Poppins', sans-serif;
   
@@ -14,7 +14,8 @@ body {
     height: 50px;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(122, 190, 202);
+    background-color: rgb(37, 70, 155);
+    border-radius: 5rem;
   
   }
   
@@ -31,9 +32,7 @@ body {
   
   nav ul li a:hover {
     color: rgb(14, 233, 222);
-    font-size: 1.1rem;
   }
-  
   
   nav ul {
     display: flex;
@@ -66,9 +65,9 @@ body {
   }
   
   .bio {
-    max-width: 600px;
-    margin-top: 300px;
-    margin: 250px;
+    max-width: 1000px;
+    margin-top: 250px;
+    margin: 200px;
     text-align: center;
     font-size: 1.5rem;
   }
@@ -202,9 +201,9 @@ body {
   .inline-container {
     display: inline-block;
     border: 1px solid #ccc;
-    width: 410px;
+    width: 380px;
     height: 500px;
-    margin-top: 190px;
+    margin-top: 150px;
     margin-inline: 10px;
     border-radius: 10px;
   }
